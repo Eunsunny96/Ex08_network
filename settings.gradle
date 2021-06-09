@@ -1,0 +1,2 @@
+rootProject.name = "Ex08_network"
+include ':app'
